@@ -4,14 +4,11 @@ date:   2020-12-03 10:00:40
 collection: research
 permalink: /research/ACA
 ---
-This is my 2020 work on applied computational aerodynamics, focusing on the impact of mesh design using Star-CCM+ and AVL for simulation.
-
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/research/Wing_mesh.png" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Alice-Bob Optimal Strategy as Defined by a Human</figcaption>
 </figure>
 
-[^1]
+[^1]This is my 2020 work on applied computational aerodynamics, focusing on the impact of mesh design using Star-CCM+ and AVL for simulation.
 
 [Click here to view the full report (PDF)]({{ "/assets/pdf/Applied_Computational_Aerodynamics_Yaro.pdf" | absolute_url }})
 

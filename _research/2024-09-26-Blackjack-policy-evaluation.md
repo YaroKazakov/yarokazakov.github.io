@@ -4,11 +4,8 @@ date:   2024-09-26 10:00:40
 collection: research
 permalink: /research/blackjack_mc_method
 ---
-Here I directly apply Monte-Carlo methods to solve for Blackjack.
-
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/BlackjackPlanes.png" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Alice-Bob Optimal Strategy as Defined by a Human</figcaption>
 </figure>
 
 # Blackjack Policy Evaluation using First-visit Monte Carlo Sampling

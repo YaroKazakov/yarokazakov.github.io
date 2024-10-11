@@ -4,14 +4,14 @@ date:   2024-09-25
 collection: research
 permalink: /research/chapter6_SB
 ---
-Here I research Model-free Control methods, such as Temporal Difference, Monte-Carlo, SARSA and Q-learning.
-
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/algo_comp.jpeg" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Alice-Bob Optimal Strategy as Defined by a Human</figcaption>
+  <figcaption style="text-align: center;">Picture by [Sagi Shaier](https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-6-temporal-difference-td-learning-2a12f0aba9f9)</figcaption>
 </figure>
 
 # Chapter 6 - Monte Carlo and TD Control
+
+Here I research Model-free Control methods, such as Temporal Difference, Monte-Carlo, SARSA and Q-learning.
 
 ## 1. Control in MC and TD
 We aim to find how good a policy is and learn the best policy without having a model of the environment.
