@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Financial Mathematics, University of Chicago, 2022
+* M.Eng in Aerospace Engineering, Imperial College University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Oct 2024: Founder
+  * Veritas
+  * Duties includes: Raising Capital and Building Products
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2023 - May 2024: Quantitative Research Analyst
+  * Dimensional Fund Advisors
+  * Duties includes: Strategy Research and Modeling
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022 : Quantitative Research Intern
+  * Dimensional Fund Advisors
+  * Duties included: Strategy Research and Modeling
+  * Supervisor: Stanley Black, PhD
+
+* Spring 2022: Quantitative Research Intern
+  * T Rowe Price
+  * Duties included: Trading Strategy Development and Volatility Hedging
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reinforcement Learning
+  * Imitation Learning
+  * Model-free Learning
+  * Deep RL
+* Robotics
+* Quantitative Trading
 
-Publications
+Research Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Imitation Learning (Behavioral Cloning and Inverse Learning), Robotics, Model-free Learning, Integrated Neural Networks for RL, Neuromorphic RL, Diffusion Models.

@@ -1,0 +1,20 @@
+---
+layout: archive
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for research in site.research reversed%}
+  {% capture year %}{{ research.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% assign post = research %}
+  {% include archive-single.html %}
+{% endfor %}
