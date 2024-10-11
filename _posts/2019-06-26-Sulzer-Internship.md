@@ -5,9 +5,8 @@ permalink: /posts/internship_Sulzer
 ---
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/work/gas-turbine-gif.gif"  | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Alice-Bob Optimal Strategy as Defined by a Human</figcaption>
+  <figcaption style="text-align: center;">Picture by [Process Tech Academy](https://www.processtechacademy.com/the-prime-movers-drivers-known-as-gas-turbines-suck-squeeze-bang-blow/).</figcaption>
 </figure>
-Picture by [Process Tech Academy](https://www.processtechacademy.com/the-prime-movers-drivers-known-as-gas-turbines-suck-squeeze-bang-blow/).
 
 The 2019 internship at Sulzer[^1] allowed me to apply my machine learning knowledge to the seemingly rigid field of industrial engineering. At first glance, someone working in the gas turbine or turbojet engine sector might think the industry is "low-tech." However, this assumption would be incorrect. The gas turbine maintenance industry is already leveraging advanced supervised learning techniques to save millions of dollars annually. My experience, described below, shows how a short-term internship project can meaningfully optimize business processes.
 
