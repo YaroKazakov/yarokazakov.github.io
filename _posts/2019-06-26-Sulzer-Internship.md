@@ -3,12 +3,12 @@ title:  "Sulzer Internship - Machine Learning for Damage Inspection in Gas Turbi
 date:   2019-06-26
 permalink: /posts/internship_Sulzer
 ---
+The 2019 internship at Sulzer[^1] allowed me to apply my machine learning knowledge to the seemingly rigid field of industrial engineering.
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/work/gas-turbine-gif.gif"  | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Picture by [Process Tech Academy](https://www.processtechacademy.com/the-prime-movers-drivers-known-as-gas-turbines-suck-squeeze-bang-blow/).</figcaption>
 </figure>
 
-The 2019 internship at Sulzer[^1] allowed me to apply my machine learning knowledge to the seemingly rigid field of industrial engineering. At first glance, someone working in the gas turbine or turbojet engine sector might think the industry is "low-tech." However, this assumption would be incorrect. The gas turbine maintenance industry is already leveraging advanced supervised learning techniques to save millions of dollars annually. My experience, described below, shows how a short-term internship project can meaningfully optimize business processes.
+At first glance, someone working in the gas turbine or turbojet engine sector might think the industry is "low-tech." However, this assumption would be incorrect. The gas turbine maintenance industry is already leveraging advanced supervised learning techniques to save millions of dollars annually. My experience, described below, shows how a short-term internship project can meaningfully optimize business processes.
 
 A gas turbine requires regular maintenance, which is costly, and only a few companies worldwide possess the expertise to do it well. Gas turbines are subjected to corrosion, extreme heat, axial stress loads, and numerous other factors that can hinder operations, potentially leading to severe financial losses for utility companies. Examples of wet corrosion and heat damage are illustrated below.
 

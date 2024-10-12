@@ -7,7 +7,6 @@ permalink: /research/chapter6_SB
 In this chapter, I study how model-free methods can be paired with policy improvement for control.
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/algo_comp.jpeg" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-  <figcaption style="text-align: center;">Picture by [Sagi Shaier](https://towardsdatascience.com/introduction-to-reinforcement-learning-rl-part-6-temporal-difference-td-learning-2a12f0aba9f9)</figcaption>
 </figure>
 
 # Chapter 6 - Monte Carlo and TD Control

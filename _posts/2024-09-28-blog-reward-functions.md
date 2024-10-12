@@ -1,6 +1,6 @@
 ---
 title:  "Understanding Challenges in Reward Function Modeling"
-date:   2024-09-16
+date:   2024-09-28 
 permalink: /posts/reward_function_challenges
 ---
 For any of you exploring the field of Reinforcement Learning (RL), I hope  this blog is useful in dissecting the various dimensions of Reward Function modeling - the cornerstone of RL.
