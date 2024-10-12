@@ -4,10 +4,10 @@ date:   2018-12-03
 collection: research
 permalink: /research/modal_shape
 ---
+This is my 2018 work on vibration analysis, focusing on the impact of resonant frequencies on structural integrity[^1].
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/research/Mode_shape.png" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-</figure>
-This is my 2018 work on vibration analysis, focusing on the impact of resonant frequencies on structural integrity[^1]. 
+</figure> 
 
 We analyzed the frequency response and mode shapes of the structure, utilizing Nyquist plots for visualization.
 

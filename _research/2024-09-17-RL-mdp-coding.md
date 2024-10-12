@@ -4,8 +4,7 @@ date:   2024-09-17
 collection: research
 permalink: /research/chapter4_SB
 ---
-In these exercises (Chapter 4), I dove into how changing the horizon impacts the best strategy in an MDP. 
-
+In this chapter I dive into how changing time horizon impacts the best strategy in an MDP. 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/swimming.gif"  | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
 </figure>

@@ -4,12 +4,10 @@ date:   2024-09-21
 collection: research
 permalink: /research/paper_review_1
 ---
+Here I review [**Language Instructed Reinforcement Learning for Human-AI Coordination**](https://arxiv.org/pdf/2304.07297) by H. Hu and D. Sadigh.
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/HAL.gif" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
-
 </figure>
-
-In this blog, in collaboration with Yuchen Cui, I review [**Language Instructed Reinforcement Learning for Human-AI Coordination**](https://arxiv.org/pdf/2304.07297) by H. Hu and D. Sadigh.
 
 **Author**: Yaro Kazakov  
 **Collaboration**: Yuchen Cui  

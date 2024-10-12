@@ -4,8 +4,7 @@ date:   2024-09-11 10:00:40
 collection: research
 permalink: /research/chapter2_topology_LP
 ---
-These study notes cover concepts from Chapter 2 of Modern Robotics by Lynch and Park, focusing on topology and configuration spaces (C-space) in robotics. 
-
+In this study I cover concepts from Chapter 2 of Modern Robotics by Lynch and Park, focusing on topology and configuration spaces (C-space) in robotics. 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/Mug_and_Torus_morph.gif"  | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
 </figure>

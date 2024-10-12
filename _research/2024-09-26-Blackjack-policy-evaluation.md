@@ -4,6 +4,7 @@ date:   2024-09-26 10:00:40
 collection: research
 permalink: /research/blackjack_mc_method
 ---
+In this post, I explore how a Blackjack strategy can be evaluated using Reinforcement Learning.
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/BlackjackPlanes.png" | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
 </figure>

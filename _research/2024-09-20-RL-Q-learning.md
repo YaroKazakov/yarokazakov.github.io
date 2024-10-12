@@ -4,11 +4,10 @@ date:   2024-09-20
 collection: research
 permalink: /research/Q_learning
 ---
+Q-learning is a foundational algorithm in reinforcement learning, designed to help agents discover the optimal strategy for maximizing cumulative rewards in an environment. 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="{{ "/assets/img/learning/Q-learning.jpeg"  | absolute_url }}" alt="mode_shape" class="post-pic" style="width: 70%;"/>
 </figure>
-
-Q-learning is a foundational algorithm in reinforcement learning, designed to help agents discover the optimal strategy for maximizing cumulative rewards in an environment. 
 
 It is a **model-free algorithm**, meaning it doesn’t need a model of the environment, and it is **off-policy**, allowing the agent to learn the optimal behavior regardless of how it explores during training. The essence of Q-learning lies in estimating the **Q-values** of state-action pairs, which represent the long-term reward the agent can expect from a given state by taking a particular action. These Q-values are updated iteratively using the Q-learning equation:
 
