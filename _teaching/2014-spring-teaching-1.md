@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics 1 Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-math
+venue: "Imperial College London, Department of Aeronautics"
+date: 2018-10-01
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+![University Logo](assets/img/icons/icl_logo.png){: style="float:left; margin-right:10px; width:50px;" }
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Seminar co-hosting, homework grading, lecture preparations, logistic and admin preparation and material review
