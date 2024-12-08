@@ -11,4 +11,4 @@ image: "/assets/img/icons/icl_logo1.png"
 
 <img src="{{ site.baseurl }}/assets/img/icons/icl_logo1.png" alt="University Logo" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 15%; height: auto;" />
 
-Seminar co-hosting, homework grading, lecture preparations, logistic and admin preparation and material review
+Seminar co-hosting, homework grading, lecture preparations, logistic and admin preparation and material review with <a href="https://profiles.imperial.ac.uk/koonyang.lee" target="_blank">Dr K. Lee</a>.
