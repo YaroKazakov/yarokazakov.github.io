@@ -8,6 +8,6 @@ date: 2018-10-01
 location: "London, UK"
 ---
 
-![University Logo](/assets/img/icons/icl_logo.png){: style="float:left; margin-right:10px; width:50px;" }
+![University Logo](/assets/img/icons/icl_logo.png){: style="float:left; margin-right:10px;" }
 
 Seminar co-hosting, homework grading, lecture preparations, logistic and admin preparation and material review
