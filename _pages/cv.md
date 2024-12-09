@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Financial Mathematics, University of Chicago, 2022
-* M.Eng in Aerospace Engineering, Imperial College University, 2021
+* M.Eng in Aerospace Engineering, Imperial College London, 2021
 
 Work experience
 ======
@@ -32,12 +32,3 @@ Work experience
 * Spring 2022: Quantitative Research Intern
   * T Rowe Price
   * Duties included: Trading Strategy Development and Volatility Hedging
-  
-Skills
-======
-* Quantitative Trading
-* Reinforcement Learning
-  * Imitation Learning
-  * Model-free Learning
-  * Deep RL
-* Robotics
