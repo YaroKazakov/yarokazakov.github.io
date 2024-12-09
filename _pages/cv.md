@@ -18,11 +18,11 @@ Work experience
 ======
 * May 2024 - Oct 2024: Founder
   * Veritas
-  * Duties includes: Raising Capital and Building Products
+  * Duties included: Raising Capital and Building Products
 
 * Jan 2023 - May 2024: Quantitative Research Analyst
   * Dimensional Fund Advisors
-  * Duties includes: Strategy Research and Modeling
+  * Duties included: Strategy Research and Modeling
 
 * Summer 2022 : Quantitative Research Intern
   * Dimensional Fund Advisors
@@ -35,13 +35,9 @@ Work experience
   
 Skills
 ======
+* Quantitative Trading
 * Reinforcement Learning
   * Imitation Learning
   * Model-free Learning
   * Deep RL
 * Robotics
-* Quantitative Trading
-
-Research Interests
-======
-* Imitation Learning (Behavioral Cloning and Inverse Learning), Robotics, Model-free Learning, Integrated Neural Networks for RL, Neuromorphic RL, Diffusion Models.
